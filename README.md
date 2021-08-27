@@ -1,1 +1,3 @@
-# face-authenticatication-using-computer-vison-email-aws-whats-app-message-
+note :
+* configure aws cli using you credentials
+* install libraries - pywhatkit
